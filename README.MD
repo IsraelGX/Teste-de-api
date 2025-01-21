@@ -1,5 +1,5 @@
 # Bootcamp Tripleten 
-   ## Analista de QA - *Sprint 4*
+   
    ### Teste de API
 
 #### Introdução à API
@@ -32,9 +32,13 @@
 - *Checklist para testes de API*
 - *Conclusão: Design de testes para teste de API*
 
-#### Documetos do projeto em *xlsx. print 4º*
+### Como Executar o Projeto
 
-- Casos de teste API
+- *Clone o repositório do projeto.*
+- *Navegue até o diretório do projeto e abra seu editor de código favorito.*
+- *Execute os testes conforme os checklists criados e registre os resultados.*
+
+### Obs: Para acessar a documentação da API e realizar os testes é necessário ter acesso ao servidor não disponível nesse momento.
 
 ## Conclusão
 
